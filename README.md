@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biman</h1>
-<h3 align="center">A burdgeoning data scientist and with a decade of experience in aerospace.</h3>
+<h3 align="center">A burdgeoning data scientist and with a decade of experience as an aerospace engineer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
